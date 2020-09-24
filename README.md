@@ -2,19 +2,31 @@
 
 An archive of my Pokemon games, Pokemon caught, etc.
 
+- [Where did I start?](#where-did-i-start)
 - [Favourite Pokemon](#favourite-pokemon)
-- [Products owned](#products-owned)
+- [Products](#products)
   - [Games](#games)
   - [Consoles](#consoles)
 - [General Pokemon statistics](#general-pokemon-statistics)
 - [Pokemon games in-depth](#pokemon-games-in-depth)
 - [Pokemon TCG](#pokemon-tcg)
 
+## Where did I start?
+
+A long exposition about how I started Pokemon, to be filled in soon.
+
 ## Favourite Pokemon
 
-My favourite pokemon currently, not necessarily the team I own!
+![Espeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif)
+![Rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif)
+![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/491.gif)
+![jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/385.gif)
+![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif)
+![Hydreigon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/635.gif)
 
-## Products owned
+Not an exhaustive list, the sprites are from my project; [The Pokemon API](https://pokeapi.co)
+
+## Products
 
 ### Games
 
