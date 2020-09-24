@@ -10,6 +10,12 @@ An archive of my Pokemon games, Pokemon caught, etc.
 - [General Pokemon statistics](#general-pokemon-statistics)
 - [Pokemon games in-depth](#pokemon-games-in-depth)
 - [Pokemon TCG](#pokemon-tcg)
+  - [2011-2013](#2011-2013)
+    - [Tournaments](#tournaments)
+      - [2012](#2012)
+      - [2013](#2013)
+      - [Play! Points](#play-points)
+  - [2020](#2020)
 
 ## Where did I start?
 
@@ -58,4 +64,34 @@ Details on each game
 
 ## Pokemon TCG
 
-Some of my statistics and stuff
+### 2011-2013
+
+My first foray into the world of competitive TCG was during the Black & White era. EX cards were just coming out in Noble Victories, MewTwo EX was dominating all the tournaments. My most sort-after card during this time was a [Darkrai EX full art](https://limitlesstcg.com/cards/dex/107/), which I managed to pull from a random pack! I also remember having a [Chandelure secret rare](https://limitlesstcg.com/cards/nxd/101/).
+
+Unfortunately, I was leaving university and became ashamed of my Pokemon hobby, so I threw all my cards in the rubbish. It was the most stupid mistake of my life (probably).
+
+I was just starting to get good, as well (as evidenced with my win record below)
+
+#### Tournaments
+
+##### 2012
+
+- 10th March | Regional Championship - Exeter. **23** out of 28
+- 12th May | Dark Explorers Release Event **4** out of 8.
+- 11th August | Dragons Exalted Release Event **1** out of 8 🥇
+- 15th September | Pokemon Standard **9** out of 13
+- 13th October | Battle Roads **3** out of 16 🥉
+- 28th October | Battle Roads Exeter **9** out of 17
+- 10th November | Boundaries Crossed Sneak Peek **2** out of 7 🥈
+
+##### 2013
+
+- 30th March 2013 | Antics table Top Day **8** out of 8 🤡
+
+##### Play! Points
+
+- Ranked 2440 at the end of 2013 with 22 Play! Points.
+
+### 2020
+
+I am currently playing TCG again. However, due to the Coronavirus lockdown all official events have been cancelled.
