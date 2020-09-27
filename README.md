@@ -8,7 +8,8 @@ An archive of my Pokemon games, Pokemon caught, etc.
   - [Games](#games)
   - [Consoles](#consoles)
 - [General Pokemon statistics](#general-pokemon-statistics)
-- [Pokemon games in-depth](#pokemon-games-in-depth)
+- [Pokemon Omega Ruby](#pokemon-omega-ruby)
+    - [Champion team](#champion-team)
 - [Pokemon TCG](#pokemon-tcg)
   - [2011-2013](#2011-2013)
     - [Tournaments](#tournaments)
@@ -56,11 +57,23 @@ I currently own copies of the following:
 
 ## General Pokemon statistics
 
-Something about how many pokemon I have caught
+- Total unique across all games: 49
+- Total Shinies: 4
 
-## Pokemon games in-depth
+## Pokemon Omega Ruby
 
-Details on each game
+- Pokedex: 49
+
+#### Champion team
+
+Completed 27th September 2020
+
+![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif)
+![Pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/279.gif)
+![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/262.gif)
+![Beautifly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/267.gif)
+![Latios](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/381.gif)
+![Terrakion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/639.gif)
 
 ## Pokemon TCG
 
@@ -94,4 +107,6 @@ I was just starting to get good, as well (as evidenced with my win record below)
 
 ### 2020
 
-I am currently playing TCG again. However, due to the Coronavirus lockdown all official events have been cancelled.
+I've picked up Pokemon TCG again after a very long hiatus. Now that I live in New Zealand, my goal is to place reasonably well (top 100) of the Oceania circuit.
+
+- 27th September | Local league **7** out of 11
