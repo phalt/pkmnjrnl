@@ -9,7 +9,7 @@ An archive of my Pokemon games, Pokemon caught, etc.
   - [Consoles](#consoles)
 - [General Pokemon statistics](#general-pokemon-statistics)
 - [Pokemon Omega Ruby](#pokemon-omega-ruby)
-    - [Champion team](#champion-team)
+  - [Champion team](#champion-team)
 - [Pokemon TCG](#pokemon-tcg)
   - [2011-2013](#2011-2013)
     - [Tournaments](#tournaments)
@@ -20,7 +20,25 @@ An archive of my Pokemon games, Pokemon caught, etc.
 
 ## Where did I start?
 
-A long exposition about how I started Pokemon, to be filled in soon.
+I think I was nine, maybe ten years old. Perfect considering the main character of the game is around that age when they start their adventure.
+
+By this point my parents had split up, so my Dad was picking me up for a weekend stay.
+My birthday is September 13th, and I know that Pokemon Red/Blue was available October 5th 1999, so it must have been a few weeks after my birthday.
+Dad had bought me a copy of Pokemon Blue and a blue [Gameboy pocket](https://en.wikipedia.org/wiki/Game_Boy#Game_Boy_Pocket). I think the Gameboy was secondhand, but the game was definitely new.
+
+<div style="width:140px">
+  <img src="gameboyblue.jpg">
+</div>
+
+This wasn't my first exposure to Pokemon though. I was into video games, I owned a PlayStation with [A Bug's Life](https://en.wikipedia.org/wiki/A_Bug%27s_Life_(video_game)), that had come out in February 1999. So that means between February and October I had bought and read various magazines and I remember a Nintendo magazine giving away a free Pokemon card, a [Charmander base set 46](https://bulbapedia.bulbagarden.net/wiki/Charmander_(Base_Set_46)). I have an odd feeling every time I see this card. I distinctly remember reading the text over and over, and being curious about this word "Pokemon". I have searched high and low to find the exact magazine that I got this card in, and I can't find it.
+
+It was in either 1998 or 1999, and it must have been a magazine for Nintendo or trading cards (I know TopDeck was a magazine for Wizards of the Coast back then), and I was into Magic: The Gathering just before I found out about Pokemon.
+
+<div style="width:140px">
+  <img src="charmander.jpg">
+</div>
+
+
 
 ## Favourite Pokemon
 
@@ -57,14 +75,14 @@ I currently own copies of the following:
 
 ## General Pokemon statistics
 
-- Total unique across all games: 49
+- Total unique across all games: 57
 - Total Shinies: 4
 
 ## Pokemon Omega Ruby
 
 - Pokedex: 49
 
-#### Champion team
+### Champion team
 
 Completed 27th September 2020
 
