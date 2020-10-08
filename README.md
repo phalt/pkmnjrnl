@@ -117,9 +117,11 @@ I was just starting to get good, as well (as evidenced with my win record below)
 
 ##### 2013
 
-- 30th March 2013 | Antics table Top Day **8** out of 8 🤡
+- 30th March | Antics table Top Day **8** out of 8 🤡
 
 ##### Play! Points
+
+This doesn't count for much as I dropped out half way through the year, but I'm keeping it here for prosperity.
 
 - Ranked 2440 at the end of 2013 with 22 Play! Points.
 
@@ -128,3 +130,4 @@ I was just starting to get good, as well (as evidenced with my win record below)
 I've picked up Pokemon TCG again after a very long hiatus. Now that I live in New Zealand, my goal is to place reasonably well (top 100) of the Oceania circuit.
 
 - 27th September | Local league **7** out of 11
+- 4th Octover | Local league **7** out of 12
