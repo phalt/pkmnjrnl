@@ -75,12 +75,12 @@ I currently own copies of the following:
 
 ## General Pokemon statistics
 
-- Total unique across all games: 57
+- Total unique across all games: 81
 - Total Shinies: 4
 
 ## Pokemon Omega Ruby
 
-- Pokedex: 49
+- Pokedex: 68
 
 ### Champion team
 
