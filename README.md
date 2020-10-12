@@ -1,7 +1,5 @@
 ![pkmn](logo.png)
 
-An archive of my Pokemon games, Pokemon caught, etc.
-
 - [Where did I start?](#where-did-i-start)
 - [Favourite Pokemon](#favourite-pokemon)
 - [Products](#products)
