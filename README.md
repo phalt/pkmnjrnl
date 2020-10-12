@@ -130,4 +130,5 @@ This doesn't count for much as I dropped out half way through the year, but I'm 
 I've picked up Pokemon TCG again after a very long hiatus. Now that I live in New Zealand, my goal is to place reasonably well (top 100) of the Oceania circuit.
 
 - 27th September | Local league **7** out of 11
-- 4th Octover | Local league **7** out of 12
+- 4th October | Local league **7** out of 12
+- 11th October | Local league **7** out of 12
