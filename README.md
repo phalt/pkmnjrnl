@@ -6,8 +6,6 @@
   - [Games](#games)
   - [Consoles](#consoles)
 - [General Pokemon statistics](#general-pokemon-statistics)
-- [Pokemon Omega Ruby](#pokemon-omega-ruby)
-  - [Champion team](#champion-team)
 - [Pokemon TCG](#pokemon-tcg)
   - [2011-2013](#2011-2013)
     - [Tournaments](#tournaments)
@@ -73,23 +71,14 @@ I currently own copies of the following:
 
 ## General Pokemon statistics
 
-- Total unique across all games: 81
+- Total unique across all games: 97
 - Total Shinies: 4
 
-## Pokemon Omega Ruby
+<div style="width:140px">
+  <img src="omega-ruby-logo-large.jpg">
+</div>
 
-- Pokedex: 68
-
-### Champion team
-
-Completed 27th September 2020
-
-![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif)
-![Pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/279.gif)
-![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/262.gif)
-![Beautifly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/267.gif)
-![Latios](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/381.gif)
-![Terrakion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/639.gif)
+[View game](./OMEGA_RUBY.md)
 
 ## Pokemon TCG
 

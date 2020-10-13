@@ -4,6 +4,7 @@ relative_links:
     enabled: true
     collections: true
 include:
-    README.md
+    - README.md
+    - OMEGA_RUBY.md
 
 theme: jekyll-theme-slate
