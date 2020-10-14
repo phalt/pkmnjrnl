@@ -6,5 +6,6 @@ relative_links:
 include:
     - README.md
     - OMEGA_RUBY.md
+    - PLATINUM.md
 
 theme: jekyll-theme-slate

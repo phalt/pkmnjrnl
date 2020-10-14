@@ -1,8 +1,8 @@
 [Go back](./README.md)
 
-<div style="width:140px">
-  <img src="omega-ruby-logo-large.jpg">
-</div>
+![omega-ruby-logo-large.jpg](omega-ruby-logo-large.jpg)
+
+**Start date**: 10th September 2020
 
 I really enjoyed this game. I love the reimagining of it, and the emphasis on the story. There are little "slice of life" moments with your parents and I think it's really sweet to show this in a game, it makes the world feel alive.
 
@@ -17,7 +17,7 @@ My aim for this game is to be a "completionist" game - I want to complete at lea
 
 ## Champion team
 
-Completed 27th September 2020
+**First championship completion** 27th September 2020
 
 ![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif)
 ![Pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/279.gif)

@@ -77,7 +77,10 @@ I currently own copies of the following:
 
 ## GAMES
 
+(click to view)
+
 [![omega-ruby-logo-large.jpg](omega-ruby-logo-large.jpg)](./OMEGA_RUBY.md)
+[![platinum-large.jpg](platinum-logo-large.jpg)](./PLATINUM.md)
 
 ## Pokemon TCG
 
