@@ -23,19 +23,13 @@ By this point my parents had split up, so my Dad was picking me up for a weekend
 My birthday is September 13th, and I know that Pokemon Red/Blue was available October 5th 1999, so it must have been a few weeks after my birthday.
 Dad had bought me a copy of Pokemon Blue and a blue [Gameboy pocket](https://en.wikipedia.org/wiki/Game_Boy#Game_Boy_Pocket). I think the Gameboy was secondhand, but the game was definitely new.
 
-<div style="width:140px">
-  <img src="gameboyblue.jpg">
-</div>
+<img style="max-width:240px;text-align:center;" src="gameboyblue.jpg">
 
 This wasn't my first exposure to Pokemon though. I was into video games, I owned a PlayStation with [A Bug's Life](https://en.wikipedia.org/wiki/A_Bug%27s_Life_(video_game)), that had come out in February 1999. So that means between February and October I had bought and read various magazines and I remember a Nintendo magazine giving away a free Pokemon card, a [Charmander base set 46](https://bulbapedia.bulbagarden.net/wiki/Charmander_(Base_Set_46)). I have an odd feeling every time I see this card. I distinctly remember reading the text over and over, and being curious about this word "Pokemon". I have searched high and low to find the exact magazine that I got this card in, and I can't find it.
 
 It was in either 1998 or 1999, and it must have been a magazine for Nintendo or trading cards (I know TopDeck was a magazine for Wizards of the Coast back then), and I was into Magic: The Gathering just before I found out about Pokemon.
 
-<div style="width:140px">
-  <img src="charmander.jpg">
-</div>
-
-
+<img style="max-width:240px;text-align:center;" src="charmander.jpg">
 
 ## Favourite Pokemon
 
@@ -96,13 +90,13 @@ I was just starting to get good, as well (as evidenced with my win record below)
 
 ##### 2012
 
-- 10th March | Regional Championship - Exeter. **23** out of 28
-- 12th May | Dark Explorers Release Event **4** out of 8.
-- 11th August | Dragons Exalted Release Event **1** out of 8 🥇
-- 15th September | Pokemon Standard **9** out of 13
-- 13th October | Battle Roads **3** out of 16 🥉
-- 28th October | Battle Roads Exeter **9** out of 17
-- 10th November | Boundaries Crossed Sneak Peek **2** out of 7 🥈
+- 10th March - Regional Championship - Exeter. **23** out of 28
+- 12th May - Dark Explorers Release Event **4** out of 8.
+- 11th August - Dragons Exalted Release Event **1** out of 8 🥇
+- 15th September - Pokemon Standard **9** out of 13
+- 13th October - Battle Roads **3** out of 16 🥉
+- 28th October - Battle Roads Exeter **9** out of 17
+- 10th November - Boundaries Crossed Sneak Peek **2** out of 7 🥈
 
 ##### 2013
 
@@ -118,6 +112,6 @@ This doesn't count for much as I dropped out half way through the year, but I'm 
 
 I've picked up Pokemon TCG again after a very long hiatus. Now that I live in New Zealand, my goal is to place reasonably well (top 100) of the Oceania circuit.
 
-- 27th September | Local league **7** out of 11
-- 4th October | Local league **7** out of 12
-- 11th October | Local league **7** out of 12
+- 27th September - Local league **7** out of 11
+- 4th October - Local league **7** out of 12
+- 11th October - Local league **7** out of 12
