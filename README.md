@@ -6,6 +6,7 @@
   - [Games](#games)
   - [Consoles](#consoles)
 - [General Pokemon statistics](#general-pokemon-statistics)
+- [GAMES](#games-1)
 - [Pokemon TCG](#pokemon-tcg)
   - [2011-2013](#2011-2013)
     - [Tournaments](#tournaments)
@@ -74,9 +75,13 @@ I currently own copies of the following:
 - Total unique across all games: 97
 - Total Shinies: 4
 
+## GAMES
+
+<a href="./OMEGA_RUBY">
 <div style="width:140px">
   <img src="omega-ruby-logo-large.jpg">
 </div>
+</a>
 
 [View game](./OMEGA_RUBY.md)
 
