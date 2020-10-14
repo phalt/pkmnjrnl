@@ -35,6 +35,8 @@ It was in either 1998 or 1999, and it must have been a magazine for Nintendo or 
   <img style="max-width:240px;" src="charmander.jpg">
 </div>
 
+I'll write a bit more here once I get it the page all set up...
+
 ## Favourite Pokemon
 
 ![Espeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif)
