@@ -23,13 +23,17 @@ By this point my parents had split up, so my Dad was picking me up for a weekend
 My birthday is September 13th, and I know that Pokemon Red/Blue was available October 5th 1999, so it must have been a few weeks after my birthday.
 Dad had bought me a copy of Pokemon Blue and a blue [Gameboy pocket](https://en.wikipedia.org/wiki/Game_Boy#Game_Boy_Pocket). I think the Gameboy was secondhand, but the game was definitely new.
 
-<img style="max-width:240px;text-align:center;" src="gameboyblue.jpg">
+<div style="text-align:center;">
+  <img style="max-width:240px;" src="gameboyblue.jpg">
+</div>
 
 This wasn't my first exposure to Pokemon though. I was into video games, I owned a PlayStation with [A Bug's Life](https://en.wikipedia.org/wiki/A_Bug%27s_Life_(video_game)), that had come out in February 1999. So that means between February and October I had bought and read various magazines and I remember a Nintendo magazine giving away a free Pokemon card, a [Charmander base set 46](https://bulbapedia.bulbagarden.net/wiki/Charmander_(Base_Set_46)). I have an odd feeling every time I see this card. I distinctly remember reading the text over and over, and being curious about this word "Pokemon". I have searched high and low to find the exact magazine that I got this card in, and I can't find it.
 
 It was in either 1998 or 1999, and it must have been a magazine for Nintendo or trading cards (I know TopDeck was a magazine for Wizards of the Coast back then), and I was into Magic: The Gathering just before I found out about Pokemon.
 
-<img style="max-width:240px;text-align:center;" src="charmander.jpg">
+<div style="text-align:center;">
+  <img style="max-width:240px;" src="charmander.jpg">
+</div>
 
 ## Favourite Pokemon
 
@@ -100,7 +104,7 @@ I was just starting to get good, as well (as evidenced with my win record below)
 
 ##### 2013
 
-- 30th March | Antics table Top Day **8** out of 8 🤡
+- 30th March - Antics table Top Day **8** out of 8 🤡
 
 ##### Play! Points
 
