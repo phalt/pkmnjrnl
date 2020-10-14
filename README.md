@@ -77,13 +77,7 @@ I currently own copies of the following:
 
 ## GAMES
 
-<a href="./OMEGA_RUBY">
-<div style="width:140px">
-  <img src="omega-ruby-logo-large.jpg">
-</div>
-</a>
-
-[View game](./OMEGA_RUBY.md)
+[![omega-ruby-logo-large.jpg](omega-ruby-logo-large.jpg)](./OMEGA_RUBY.md)
 
 ## Pokemon TCG
 
